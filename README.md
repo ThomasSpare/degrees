@@ -1,7 +1,6 @@
 # 6 Degrees Actor to Actor
-<br>
+
 ![Kevin Bacon image](https://res.cloudinary.com/djunroohl/image/upload/v1708168719/KevinBacon_krhjrr.jpg)
-![Readme hero image](https://res.cloudinary.com/djunroohl/image/upload/v1698066662/wfzmjfbdtrfscoc4oeqs.png)
 
 
 This is my first assignment project with SC50 harvard University - Introduction to AI with Python<br>
