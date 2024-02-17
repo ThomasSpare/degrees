@@ -1,7 +1,6 @@
 # 6 Degrees Actor to Actor
 <br>
 ![Kevin Bacon image](https://res.cloudinary.com/djunroohl/image/upload/v1708168719/KevinBacon_krhjrr.jpg)
----
 
 This is my first assignment project with SC50 harvard University - Introduction to AI with Python<br>
 According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected<br> 
